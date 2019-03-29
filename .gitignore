@@ -1,3 +1,5 @@
 *.pdf
 *.jpg
 *.mat
+*.caffemodel
+/3_Visualization-CNNCaffe
